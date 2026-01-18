@@ -7,9 +7,8 @@ int main () {
         cout<<"Zero";
     }
     else 
-    {
-        cout<<"Non Zero";
-    }
+     cout<<"Non Zero";
+    
     return 0;
 
 }
